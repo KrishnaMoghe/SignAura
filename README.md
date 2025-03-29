@@ -96,6 +96,13 @@ The gesture recognition system is a key component of SignAura, enabling the iden
 
 ---
 
+## Team Member
+
+- Krishna Moghe
+- Zaid Md Saikh
+- Jainil Patel
+- Palak Patel
+  
 ## Contribution
 Contributions are welcome! To contribute:
 1. Fork the repository.
